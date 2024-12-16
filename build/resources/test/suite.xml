@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<suite name="dailyfinance Automation">
+    <test name="user Registration">
+        <!-- <groups>
+            <run>
+                <include name ="smoke"></include>
+           </run>
+        </groups> -->
+        <classes>
+            <class name="testRunner.RegisterTestRunner"></class>
+       </classes>
+    </test>
+    <test name="user Login">
+       <!-- <groups>
+            <run>
+                <include name ="smoke"></include>
+            </run>
+        </groups> -->
+        <classes>
+            <class name="testRunner.LoginTestRunner"></class>
+        </classes>
+    </test>
+    <test name="Add Item, edit Item and delete Item">
+        <!-- <groups>
+            <run>
+                <include name ="smoke"></include>
+            </run>
+        </groups> -->
+        <classes>
+            <class name="testRunner.DashboardPageTestRunner"></class>
+        </classes>
+    </test>
+    <test name="Edit user">
+        <!-- <groups>
+            <run>
+                <include name ="smoke"></include>
+            </run>
+        </groups> -->
+        <classes>
+            <class name="testRunner.ProfilePageTestRunner"></class>
+        </classes>
+    </test>   
+</suite>

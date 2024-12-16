@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="testRunner.RegisterTestRunner" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-12-16T17:32:54" hostname="AK" time="13.045">
+  <properties/>
+  <testcase name="userRegisterByAllFields" classname="testRunner.RegisterTestRunner" time="13.045"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

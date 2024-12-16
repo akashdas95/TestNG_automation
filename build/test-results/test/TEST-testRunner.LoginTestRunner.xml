@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="testRunner.LoginTestRunner" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-12-16T17:33:15" hostname="AK" time="5.673">
+  <properties/>
+  <testcase name="adminLoginWithWrongCred" classname="testRunner.LoginTestRunner" time="1.473"/>
+  <testcase name="adminLogin" classname="testRunner.LoginTestRunner" time="2.165"/>
+  <testcase name="userLogin" classname="testRunner.LoginTestRunner" time="2.028"/>
+  <system-out><![CDATA[Total Users: 2713
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
